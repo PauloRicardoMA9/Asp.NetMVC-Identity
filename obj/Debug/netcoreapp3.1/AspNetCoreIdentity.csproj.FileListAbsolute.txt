@@ -170,3 +170,5 @@ C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Staging.json
